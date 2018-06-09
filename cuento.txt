@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ola mundo...
 
+=======
+Introducción del cuento....jeje
+ola mundo...
+>>>>>>> master
